@@ -1,24 +1,17 @@
-### 🚀 Welcome to Data Science Salary Insights! 📊
+🚀 Welcome to Data Science Salary Insights! 📊
 
 Looking to explore the fascinating world of data science salaries? You're in the right place! Our project delves into the depths of data to uncover insights into salaries in the data science field. Whether you're a seasoned data professional or just curious about the earning potential in this industry, we've got you covered!
 
-## 🌟 Key Questions Explored:
+🌟 Key Questions Explored:
+- Which Job on Average Pays the Most? 💰
+- Which Job Has the Most Capital? 💼
+- Which Job Has the Most Employed People? 👥
+- What's the Difference in Average Salary Based on Each Employment Type? 📈
+- Do Companies Tend to Hire Employees Residing in the Same Country? 🌍
+- Is There a Difference in Pay Between Employees Who Got Hired in the Same Year and Have the Same Job? 📅
 
-1. **Which Job on Average Pays the Most?** 💰
-2. **Which Job Has the Most Capital?** 💼
-3. **Which Job Has the Most Employed People?** 👥
-4. **What's the Difference in Average Salary Based on Each Employment Type?** 📈
-5. **Do Companies Tend to Hire Employees Residing in the Same Country?** 🌍
-6. **Is There a Difference in Pay Between Employees Who Got Hired in the Same Year and Have the Same Job?** 📅
-
-## 💼 Project Overview:
-
+💼 Project Overview:
 Our repository dives deep into the fascinating realm of data science salaries. We leverage powerful tools and techniques to extract meaningful insights from the data, offering you a comprehensive view of the landscape.
 
-## 📊 Analysis and Visualization:
-
+📊 Analysis and Visualization:
 We bring the data to life with captivating visualizations and insightful analysis, making it easy for you to grasp key trends and patterns in data science salaries. From interactive charts to informative summaries, our project has it all!
-
----
-
-Feel free to explore the repository and unlock the secrets of data science salaries! 🚀
